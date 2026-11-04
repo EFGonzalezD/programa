@@ -1,0 +1,10 @@
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\bin\Debug\ProgA2.exe.config
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\bin\Debug\ProgA2.exe
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\bin\Debug\ProgA2.pdb
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\obj\Debug\ProgA2.csproj.AssemblyReference.cache
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\obj\Debug\ProgA2.A2AACC.resources
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\obj\Debug\ProgA2.Properties.Resources.resources
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\obj\Debug\ProgA2.csproj.GenerateResource.cache
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\obj\Debug\ProgA2.csproj.CoreCompileInputs.cache
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\obj\Debug\ProgA2.exe
+F:\Users\Facundo\Desktop\uai\Progvis1\ProgVis1\ProgVis1\ProgA2\obj\Debug\ProgA2.pdb

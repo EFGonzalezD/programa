@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UAI\\ProgVis1\\ProgVis1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285508A9-72C0-4B40-AE7A-63BF9595A2BA}|ProgA1\\ProgA1.csproj|d:\\uai\\progvis1\\progvis1\\proga1\\a1aacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285508A9-72C0-4B40-AE7A-63BF9595A2BA}|ProgA1\\ProgA1.csproj|solutionrelative:proga1\\a1aacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285508A9-72C0-4B40-AE7A-63BF9595A2BA}|ProgA1\\ProgA1.csproj|d:\\uai\\progvis1\\progvis1\\proga1\\a1aacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{285508A9-72C0-4B40-AE7A-63BF9595A2BA}|ProgA1\\ProgA1.csproj|solutionrelative:proga1\\a1aacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5D9D28-CF9A-40D9-9F25-E8BAAF0DCBBC}|Prog6\\Prog6.csproj|d:\\uai\\progvis1\\progvis1\\prog6\\6pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5D9D28-CF9A-40D9-9F25-E8BAAF0DCBBC}|Prog6\\Prog6.csproj|solutionrelative:prog6\\6pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5D9D28-CF9A-40D9-9F25-E8BAAF0DCBBC}|Prog6\\Prog6.csproj|d:\\uai\\progvis1\\progvis1\\prog6\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5D9D28-CF9A-40D9-9F25-E8BAAF0DCBBC}|Prog6\\Prog6.csproj|solutionrelative:prog6\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5D9D28-CF9A-40D9-9F25-E8BAAF0DCBBC}|Prog6\\Prog6.csproj|d:\\uai\\progvis1\\progvis1\\prog6\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5D9D28-CF9A-40D9-9F25-E8BAAF0DCBBC}|Prog6\\Prog6.csproj|solutionrelative:prog6\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75874EA-45FB-4EE2-8BBE-19701BEECC05}|Prog7\\Prog7.csproj|D:\\UAI\\ProgVis1\\ProgVis1\\prog7\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75874EA-45FB-4EE2-8BBE-19701BEECC05}|Prog7\\Prog7.csproj|solutionrelative:prog7\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75874EA-45FB-4EE2-8BBE-19701BEECC05}|Prog7\\Prog7.csproj|D:\\UAI\\ProgVis1\\ProgVis1\\prog7\\7lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75874EA-45FB-4EE2-8BBE-19701BEECC05}|Prog7\\Prog7.csproj|solutionrelative:prog7\\7lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACCAEE9-B532-4D79-8C64-FD289806E7BB}|ProgA2\\ProgA2.csproj|d:\\uai\\progvis1\\progvis1\\proga2\\gestornota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACCAEE9-B532-4D79-8C64-FD289806E7BB}|ProgA2\\ProgA2.csproj|solutionrelative:proga2\\gestornota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A1AACC.cs",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\ProgA1\\A1AACC.cs",
+              "RelativeDocumentMoniker": "ProgA1\\A1AACC.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\ProgA1\\A1AACC.cs",
+              "RelativeToolTip": "ProgA1\\A1AACC.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:12:44.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A1AACC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\ProgA1\\A1AACC.cs",
+              "RelativeDocumentMoniker": "ProgA1\\A1AACC.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\ProgA1\\A1AACC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProgA1\\A1AACC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:12:42.128Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6Pila.cs",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog6\\6Pila.cs",
+              "RelativeDocumentMoniker": "Prog6\\6Pila.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog6\\6Pila.cs",
+              "RelativeToolTip": "Prog6\\6Pila.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:50:10.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog6\\Nodo.cs",
+              "RelativeDocumentMoniker": "Prog6\\Nodo.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog6\\Nodo.cs",
+              "RelativeToolTip": "Prog6\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:49:57.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog6\\Pila.cs",
+              "RelativeDocumentMoniker": "Prog6\\Pila.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog6\\Pila.cs",
+              "RelativeToolTip": "Prog6\\Pila.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:49:22.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestorNota.cs",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\ProgA2\\GestorNota.cs",
+              "RelativeDocumentMoniker": "ProgA2\\GestorNota.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\ProgA2\\GestorNota.cs",
+              "RelativeToolTip": "ProgA2\\GestorNota.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:41:46.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog7\\Lista.cs",
+              "RelativeDocumentMoniker": "Prog7\\Lista.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog7\\Lista.cs",
+              "RelativeToolTip": "Prog7\\Lista.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T04:25:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "7Lista.cs",
+              "DocumentMoniker": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog7\\7Lista.cs",
+              "RelativeDocumentMoniker": "Prog7\\7Lista.cs",
+              "ToolTip": "D:\\UAI\\ProgVis1\\ProgVis1\\Prog7\\7Lista.cs",
+              "RelativeToolTip": "Prog7\\7Lista.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T04:25:12.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
